@@ -1,0 +1,26 @@
+{
+  "name": "flux-container-create",
+  "version": "1.0.1",
+  "description": "Workaround for https://github.com/facebook/flux/issues/351, based on lazy8's code'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nav Patel <nav@abhi.in>",
+  "license": "ISC",
+  "dependencies": {
+    "flux": "^3.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelnav/flux-container-create.git"
+  },
+  "keywords": [
+    "react",
+    "flux"
+  ],
+  "bugs": {
+    "url": "https://github.com/patelnav/flux-container-create/issues"
+  },
+  "homepage": "https://github.com/patelnav/flux-container-create#readme"
+}
